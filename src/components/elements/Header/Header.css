@@ -5,7 +5,10 @@
   padding: 0 20px;
   box-sizing: border-box;
 }
-
+.center{
+	text-align: center;
+	margin: 0px auto;
+}
 .rmdb-header-content {
   max-width: 1280px;
   min-height: 120px;
