@@ -27,6 +27,8 @@ const Navigation = ({ movie }) => (
   </div>
 )
 
+
+
 Navigation.propTypes = {
   movie: PropTypes.string
 }
